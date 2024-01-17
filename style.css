@@ -1,0 +1,25 @@
+* {
+  background-color: black;
+  color: white;
+  font-size: medium;
+}
+form {
+  color: white;
+}
+.form text {
+  background-color: white;
+  color: white;
+}
+#EmojiSearch {
+  font-size: larger;
+  background-color: white;
+  color: black;
+}
+#Search {
+  background-color: greenyellow;
+  color: black;
+  font-size: larger;
+}
+h1 {
+  font-size: 50px;
+}
